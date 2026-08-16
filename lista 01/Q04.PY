@@ -12,4 +12,4 @@ elif cateto==2:
     lc = float(input("qual e o cateto  do triangulo? "))
     calcular = (lh**2 + lc**2)**(1/2)
     print("o valor do cateto é:", calcular)
-    
+#CODIGO FEITO POR: BRUNO DE SOUZA BUENO
