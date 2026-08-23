@@ -1,5 +1,5 @@
 for i in range(1, 29):
-    nome_arquivo = f"Q{i:02d}.py"
+    nome_arquivo = f"Q{i:02d}.PY"
     with open(nome_arquivo, 'w') as arquivo:
         pass # Cria o arquivo vazio
 print("Arquivos criados com sucesso!")
