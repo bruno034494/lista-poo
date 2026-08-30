@@ -6,4 +6,5 @@ while sair == "1":
         print("O número é divisível por 400")
     else:
         print("não eh bissexto")
-    sair = input("vc deseja sair aperte 0 se não aperte 1:")    
+    sair = input("vc deseja sair aperte 0 se não aperte 1:")
+#CÓDIGO FEITO POR: BRUNO DE SOUZA BUENO    

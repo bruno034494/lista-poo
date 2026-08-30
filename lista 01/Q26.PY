@@ -5,3 +5,4 @@ elif idade >= 13 and idade <= 17:
     print("você é um adolescente.")
 elif idade >= 18 and idade <= 59:
     print("você é um adulto.")
+#CÓDIGO FEITO POR: BRUNO DE SOUZA BUENO

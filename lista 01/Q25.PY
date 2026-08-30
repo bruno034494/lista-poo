@@ -9,3 +9,4 @@ elif horas < 10:
 elif horas > 40:
     print("Quantidade muito alta.")
 print("fim do programa")
+#CÓDIGO FEITO POR: BRUNO DE SOUZA BUENO

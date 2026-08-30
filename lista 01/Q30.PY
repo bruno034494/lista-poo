@@ -7,3 +7,4 @@ elif suanota > 4 and suanota < 7:
     print("Recuperação")
 elif suanota < 5 and suanota >= 0:
     print("Reprovado")
+#CÓDIGO FEITO POR: BRUNO DE SOUZA BUENO

@@ -7,3 +7,4 @@ elif imc <= 18.5 and imc <= 25:
     print("peso normal")
 elif imc >= 30:
     print("obesidade")
+#CÓDIGO FEITO POR: BRUNO DE SOUZA BUENO

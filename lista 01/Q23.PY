@@ -12,3 +12,4 @@ elif tipo == "/":
     resultado = n1 / n2
 
 print(f"O resultado da operação é: {resultado:.2f}")
+#CÓDIGO FEITO POR: BRUNO DE SOUZA BUENO

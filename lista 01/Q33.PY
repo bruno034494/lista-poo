@@ -5,3 +5,4 @@ for i in range(4):
     vetor.append(notas)
 menor_numero = min(vetor)
 print("seu menor numero",menor_numero)
+#CÓDIGO FEITO POR: BRUNO DE SOUZA BUENO

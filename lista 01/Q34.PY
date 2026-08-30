@@ -11,3 +11,4 @@ else:
     raiz1 = (-b + (delta ** 0.5)) / (2 * a)
     raiz2 = (-b - (delta ** 0.5)) / (2 * a)
     print(f"As duas raízes reais são: {raiz1:.2f} e {raiz2:.2f}")
+#CÓDIGO FEITO POR: BRUNO DE SOUZA BUENO
