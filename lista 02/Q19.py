@@ -1,10 +1,10 @@
 boletim = {
-    "João": {
+    "Natan": {
         "Nota 1": 8.0,
         "Nota 2": 7.5,
         "Média": 7.75
     },
-    "Kethelen": {
+    "Bruno": {
         "Nota 1": 6.0,
         "Nota 2": 6.0,
         "Média": 6.0
