@@ -1,4 +1,3 @@
-# Gabarito armazenado pelo programa (25 questões)
 gabarito = ['A', 'B', 'C', 'D', 'E', 'A', 'B', 'C', 'D', 'E', 
             'A', 'B', 'C', 'D', 'E', 'A', 'B', 'C', 'D', 'E', 
             'A', 'B', 'C', 'D', 'E']
