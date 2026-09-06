@@ -1,6 +1,5 @@
 def analisar_log(nome_arquivo):
     contagem = {}
-    
     try:
         with open(nome_arquivo, "r", encoding="utf-8") as arquivo:
             conteudo = arquivo.read().lower()
