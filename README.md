@@ -21,9 +21,9 @@ As soluções desenvolvidas neste repositório abordam os seguintes fundamentos 
 ## Apresentação em Vídeo (Questões Sorteadas)
 Conforme as orientações da avaliação prática, as 3 questões sorteadas foram resolvidas em formato de vídeo, demonstrando a construção do código em tempo real e a explicação do raciocínio lógico empregado.
 
-* **[Lista 2 - Questão q10]:** 
-* **[Lista 2 - Questão q14]:** 
-* **[Lista 3 - Questão q37]:** 
+* **[Lista 2 - Questão q10]:** https://drive.google.com/file/d/1JSaFsqnn_czkYj4YMyt6h8OdjjTTdLyh/view
+* **[Lista 2 - Questão q14]:** https://drive.google.com/file/d/1JSaFsqnn_czkYj4YMyt6h8OdjjTTdLyh/view
+* **[Lista 3 - Questão q37]:** https://drive.google.com/file/d/1JSaFsqnn_czkYj4YMyt6h8OdjjTTdLyh/view
 
 ## Organização das Questões
 Os códigos estão divididos em pastas específicas para cada lista, utilizando nomes que permitem identificar facilmente a qual questão o arquivo pertence. A estrutura de diretórios do repositório segue este padrão:
