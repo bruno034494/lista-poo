@@ -1,3 +1,0 @@
-Curso 1: 20 alunos
-Curso 2: 20 alunos
-Resultado: Os dois cursos possuem a mesma quantidade de alunos.
