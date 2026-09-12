@@ -21,24 +21,24 @@ As soluções desenvolvidas neste repositório abordam os seguintes fundamentos 
 ## Apresentação em Vídeo (Questões Sorteadas)
 Conforme as orientações da avaliação prática, as 3 questões sorteadas foram resolvidas em formato de vídeo, demonstrando a construção do código em tempo real e a explicação do raciocínio lógico empregado.
 
-* **[Lista 2 - Questão q10]:*https://drive.google.com/file/d/1JSaFsqnn_czkYj4YMyt6h8OdjjTTdLyh/view* 
-* **[Lista 2 - Questão q14]:*https://drive.google.com/file/d/1JSaFsqnn_czkYj4YMyt6h8OdjjTTdLyh/view* 
-* **[Lista 3 - Questão q37]:*https://drive.google.com/file/d/1JSaFsqnn_czkYj4YMyt6h8OdjjTTdLyh/view* 
+* [Lista 02 — Questão 10](https://drive.google.com/file/d/1JSaFsqnn_czkYj4YMyt6h8OdjjTTdLyh/view)
+* [Lista 02 — Questão 14](https://drive.google.com/file/d/1JSaFsqnn_czkYj4YMyt6h8OdjjTTdLyh/view)
+* [Lista 03 — Questão 37](https://drive.google.com/file/d/1JSaFsqnn_czkYj4YMyt6h8OdjjTTdLyh/view)
 
 ## Organização das Questões
 Os códigos estão divididos em pastas específicas para cada lista, utilizando nomes que permitem identificar facilmente a qual questão o arquivo pertence. A estrutura de diretórios do repositório segue este padrão:
 
-* **Lista 01/**
+* **lista 01/**
   * `Q01.py`
   * `Q02.py`
   * `Q03.py`
   * `Q04.py`
   * `...`
-* **Lista 02/**
+* **lista 02/**
   * `Q01.py`
   * `Q02.py`
   * `...`
-* **Lista 03/**
+* **lista 03/**
   * `Q01.py`
   * `Q02.py`
   * `...`
@@ -49,7 +49,14 @@ Para executar e testar as soluções desenvolvidas, siga as etapas abaixo:
 1. Certifique-se de possuir a linguagem **Python 3.x** instalada no seu ambiente.
 2. Clone este repositório ou faça o download da pasta desejada.
 3. Abra o seu terminal de preferência (Prompt de Comando, PowerShell, ou o terminal integrado da IDE, como VS Code).
-4. Navegue até o diretório da lista que deseja testar utilizando o comando `cd` (exemplo: `cd "Lista 01"`).
+4. Navegue até o diretório da lista que deseja testar utilizando o comando `cd` (exemplo: `cd "lista 01"`).
 5. Execute o arquivo da questão informando o interpretador Python, seguido do nome do arquivo (exemplo: `python Q01.py`).
 6. Interaja com o terminal fornecendo os dados de entrada (`inputs`) solicitados pelo programa. 
 > **Aviso:** Para testar códigos que realizam a leitura de arquivos locais (como os analisadores de logs), certifique-se de criar o arquivo `.txt` de teste no mesmo diretório em que o script Python está sendo executado.
+## Status das entregas
+
+* **lista 01:** Lista 01 finalizada.
+* **lista 02:** Lista 02 finalizada.
+* **lista 03:** Questões 01 até 26 finalizadas. A pasta também contém arquivos das questões 27 a 38.
+* **questoes_video:** Vídeo finalizado — códigos das questões 10 e 14 da Lista 02 e 37 da Lista 03.
+* **README:** Completo, com identificação, organização, links de vídeo e orientações de execução.
